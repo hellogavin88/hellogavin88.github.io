@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:github
-  repository: git@github.com:hellogavin88/hellogavin88.github.io.git
-  branch: master
+  repository:git@github.com:hellogavin88/hellogavin88.github.io.git
+  branch:master
